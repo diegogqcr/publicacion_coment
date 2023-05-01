@@ -1,3 +1,5 @@
+Proyecto de React JS ejemplo de un comentario en una publicación en una red social o app. Uso de react props para el manejo de datos y funciones entre componentes y el uso de JSX.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
